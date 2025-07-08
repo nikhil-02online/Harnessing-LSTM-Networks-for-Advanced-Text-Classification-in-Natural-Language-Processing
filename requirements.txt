@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+tqdm
+tensorflow
+gensim
+scikit-learn
+beautifulsoup4
+nltk
+matplotlib
+seaborn
+lxml
